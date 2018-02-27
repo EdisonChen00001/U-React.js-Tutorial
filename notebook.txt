@@ -68,3 +68,14 @@ const doubleNumArray = numbers.map((num) => {
 
 console.log(numbers);             //[1,2,3]
 console.log(doubleNumArray);      //[2,4,6]
+
+
+---------------------------------
+Summary Next gen JavaScript
+
+1. let & const
+2. ES6 Arrow function
+3. Exports & Imports
+4. classes
+5. Spread & Rest Operator
+6. Destructuring
