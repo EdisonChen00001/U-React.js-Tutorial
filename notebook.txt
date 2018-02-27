@@ -23,3 +23,17 @@ const person = new Person();
 person.printMyName();                    => "Max"
 person.printGender();                    => "female"
 ------------------------------
+
+
+spread and rest operator 
+
+spread 
+-------
+const newArrary = [...oldArray,1,2]
+const newObject = {...oldObject, newProp:5}
+
+rest
+-------
+function sortArgs(...args){
+    return args.sort()
+}
