@@ -79,3 +79,10 @@ Summary Next gen JavaScript
 4. classes
 5. Spread & Rest Operator
 6. Destructuring
+
+
+//
+JSX
+
+css 
+class change to ===>  className 
