@@ -86,3 +86,6 @@ JSX
 
 css 
 class change to ===>  className 
+
+//
+using '{ }' put js code in it
